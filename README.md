@@ -17,3 +17,5 @@ Speed powerup
 Shield powerup 
 ![image](https://github.com/user-attachments/assets/9877d52e-3ffe-4528-87ba-1084b28d3d98)
 End screen when all lives have been used
+
+2) 
