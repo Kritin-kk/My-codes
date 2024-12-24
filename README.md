@@ -29,5 +29,4 @@ https://github.com/user-attachments/assets/0d0f65e2-acd9-4837-a78e-0352bf4dcaab
 
 3) Python Projects(Python.py and Python Games Files)
    
-These are python projects I worked on over the years. I have coded many simple games like tic tac toe, the game of nim(referred to as dragon game in the Python games folder) and a maze game. I also worked on some projects with a python course I did (in the Python.py folder). I wrote a code which sent an email to my teacher in the course and codes that perform mathematical operations like factorials. 
-
+These are python projects I worked on over the years. I have coded many simple games like tic tac toe, the game of nim(referred to as dragon game in the Python games folder) and a maze game. I also worked on some projects with a python course I did (in the Python.py folder). I wrote a code which opened the browser, logged into email and sent an email to my teacher in the course. Additionally I have also created projects like a calculator which can calculate Factorial, Quadratics, Permutations and Combinations. 
